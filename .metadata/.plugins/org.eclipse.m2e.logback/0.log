@@ -1,0 +1,807 @@
+2024-09-26 21:44:22,117 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-26 21:51:22,552 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [644])
+2024-09-26 21:51:22,557 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-09-26 21:51:22,558 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-09-26 21:51:22,563 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-09-26 21:51:22,563 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-09-26 21:51:22,563 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-09-26 21:51:22,563 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-09-26 21:51:22,565 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-09-26 21:51:22,565 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-09-26 21:51:22,565 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-09-26 21:51:22,566 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-09-26 21:51:22,567 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-09-26 21:51:22,568 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-09-26 21:51:22,568 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-09-26 21:51:22,568 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-09-26 21:51:22,569 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-09-26 21:51:22,569 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-09-26 21:51:22,569 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-09-26 21:51:22,570 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-09-26 21:51:22,570 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-09-26 21:51:22,570 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-09-26 21:51:22,571 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-09-26 21:51:22,571 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-09-26 21:51:22,572 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-09-26 21:51:22,572 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-09-26 21:51:22,573 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-09-26 21:51:22,573 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-09-26 21:51:22,573 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-09-26 21:51:22,573 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-09-26 21:51:22,573 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-09-26 21:51:22,582 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-09-26 21:51:22,591 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-09-26 21:51:22,592 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-09-26 21:51:22,593 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-09-26 21:51:22,593 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-09-26 21:51:22,593 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-09-26 21:51:22,610 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-09-26 21:51:22,610 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-09-26 21:51:22,610 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-09-26 21:51:22,612 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-09-26 21:51:22,613 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-09-26 21:51:22,614 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-09-26 21:51:22,614 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-09-26 21:51:22,615 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-09-26 21:51:22,618 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.2.0.jre [16])
+2024-09-26 21:51:22,619 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\com.google.guava_33.2.0.jre.jar
+2024-09-26 21:51:22,620 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1009])
+2024-09-26 21:51:22,621 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2024-09-26 21:51:22,621 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [33])
+2024-09-26 21:51:22,622 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-09-26 21:51:22,623 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [44])
+2024-09-26 21:51:22,623 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-09-26 21:51:22,623 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.8.0 [78])
+2024-09-26 21:51:22,624 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.cli_1.8.0.jar
+2024-09-26 21:51:22,624 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2024-09-26 21:51:22,625 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-09-26 21:51:22,625 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [89])
+2024-09-26 21:51:22,625 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-09-26 21:51:22,625 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2024-09-26 21:51:22,626 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-09-26 21:51:22,640 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\LENOVO\AppData\Local\Temp\m2e-archetypeGenerator16177141409422915353":
+2024-09-26 21:51:22,648 [Worker-16: Launching mavenrun-2ed14b77-aca5-46ac-a546-e6e3271fd1c1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DgroupId=sp1 -DartifactId=sp1 -Dversion=0.0.1-SNAPSHOT -Dpackage=com.demo -DoutputDirectory="D:\java\eclipse\spring core" -B -Dstyle.color=always -U archetype:generate
+2024-09-26 21:58:50,165 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java\eclipse\spring core\sp1\pom.xml
+2024-09-26 21:59:00,851 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp1:sp1:0.0.1-SNAPSHOT @ D:\java\eclipse\spring core\sp1\pom.xml.
+2024-09-26 21:59:04,793 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp1/src/main/java
+2024-09-26 21:59:04,798 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp1/src/main/resources
+2024-09-26 21:59:04,813 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp1/src/test/java
+2024-09-26 21:59:04,815 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp1/src/test/resources
+2024-09-26 21:59:05,779 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2024-09-26 21:59:07,748 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 21:59:07,749 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 21:59:07,759 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 21:59:07,759 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:10:35,677 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:10:35,678 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:10:35,684 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:10:35,684 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:12:14,181 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:12:14,181 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:12:14,189 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:12:14,190 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:13:00,193 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:13:00,193 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:13:00,197 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:13:00,198 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:13:23,327 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:13:23,327 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:13:23,332 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:13:23,332 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:13:27,367 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:13:27,367 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:13:27,370 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:13:27,371 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:13:30,302 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:13:30,302 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:13:30,307 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:13:30,309 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:13:47,257 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:13:47,257 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:13:47,262 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:13:47,262 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:14:08,136 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:14:08,136 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:14:08,139 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:14:08,140 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:14:31,772 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:14:31,773 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:14:31,778 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:14:31,778 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:16:01,996 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:16:01,996 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:16:02,004 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:16:02,004 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:16:11,401 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:16:11,402 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:16:11,407 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:16:11,407 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:18:48,288 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:18:48,289 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:18:48,292 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:18:48,292 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:19:33,797 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:19:33,797 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:19:33,802 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:19:33,803 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:28:41,961 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp1:sp1:0.0.1-SNAPSHOT @ D:\java\eclipse\spring core\sp1\pom.xml.
+2024-09-26 22:28:42,515 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.18/spring-context-5.3.18.pom
+2024-09-26 22:28:42,602 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.18/spring-context-5.3.18.pom
+2024-09-26 22:28:42,757 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.18/spring-aop-5.3.18.pom
+2024-09-26 22:28:43,056 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.18/spring-aop-5.3.18.pom
+2024-09-26 22:28:43,302 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.18/spring-beans-5.3.18.pom
+2024-09-26 22:28:43,482 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.18/spring-beans-5.3.18.pom
+2024-09-26 22:28:43,641 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.18/spring-core-5.3.18.pom
+2024-09-26 22:28:43,763 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.18/spring-core-5.3.18.pom
+2024-09-26 22:28:43,884 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.18/spring-jcl-5.3.18.pom
+2024-09-26 22:28:43,985 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.18/spring-jcl-5.3.18.pom
+2024-09-26 22:28:44,136 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.18/spring-expression-5.3.18.pom
+2024-09-26 22:28:44,194 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.18/spring-expression-5.3.18.pom
+2024-09-26 22:28:44,337 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.18/spring-context-5.3.18.jar
+2024-09-26 22:28:59,466 [Worker-31: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.18/spring-context-5.3.18.jar
+2024-09-26 22:28:59,773 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.18/spring-aop-5.3.18.jar
+2024-09-26 22:28:59,935 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.18/spring-expression-5.3.18.jar
+2024-09-26 22:29:00,094 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.18/spring-jcl-5.3.18.jar
+2024-09-26 22:29:00,110 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.18/spring-beans-5.3.18.jar
+2024-09-26 22:29:00,127 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.18/spring-core-5.3.18.jar
+2024-09-26 22:29:00,500 [BasicRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.18/spring-expression-5.3.18.jar
+2024-09-26 22:29:00,834 [BasicRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.18/spring-beans-5.3.18.jar
+2024-09-26 22:29:01,051 [BasicRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.18/spring-core-5.3.18.jar
+2024-09-26 22:29:01,204 [BasicRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.18/spring-jcl-5.3.18.jar
+2024-09-26 22:29:03,621 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.18/spring-aop-5.3.18.jar
+2024-09-26 22:29:03,987 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:29:03,987 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:29:03,995 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:29:03,995 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:29:05,106 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.18/spring-context-5.3.18-sources.jar
+2024-09-26 22:29:05,629 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:29:05,630 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:29:05,642 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:29:05,642 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-26 22:29:15,586 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.18/spring-context-5.3.18-sources.jar
+2024-09-26 22:29:15,592 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:5.3.18
+2024-09-26 22:29:16,115 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.18/spring-aop-5.3.18-sources.jar
+2024-09-26 22:29:16,602 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.18/spring-aop-5.3.18-sources.jar
+2024-09-26 22:29:16,620 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:5.3.18
+2024-09-26 22:29:16,836 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.18/spring-beans-5.3.18-sources.jar
+2024-09-26 22:29:17,166 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.18/spring-beans-5.3.18-sources.jar
+2024-09-26 22:29:17,175 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:5.3.18
+2024-09-26 22:29:18,055 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.18/spring-core-5.3.18-sources.jar
+2024-09-26 22:29:29,893 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.18/spring-core-5.3.18-sources.jar
+2024-09-26 22:29:29,901 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:5.3.18
+2024-09-26 22:29:30,916 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.18/spring-jcl-5.3.18-sources.jar
+2024-09-26 22:29:31,386 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.18/spring-jcl-5.3.18-sources.jar
+2024-09-26 22:29:31,400 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jcl:5.3.18
+2024-09-26 22:29:33,006 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.18/spring-expression-5.3.18-sources.jar
+2024-09-26 22:29:34,815 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.18/spring-expression-5.3.18-sources.jar
+2024-09-26 22:29:34,823 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:5.3.18
+2024-09-26 22:31:41,120 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:31:41,121 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\main\resources
+2024-09-26 22:31:41,126 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-26 22:31:41,126 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp1\src\test\resources
+2024-09-27 09:45:00,456 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-27 09:47:27,548 [Worker-2: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project sp1
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project sp1
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1741)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-27 09:47:27,639 [Worker-2: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project sp1
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project sp1
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1741)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-27 09:47:27,660 [Worker-2: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project sp1
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project sp1
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1741)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-09-27 09:48:57,238 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [644])
+2024-09-27 09:48:57,347 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-09-27 09:48:57,347 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-09-27 09:48:57,347 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-09-27 09:48:57,347 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-09-27 09:48:57,348 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-09-27 09:48:57,348 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-09-27 09:48:57,348 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-09-27 09:48:57,349 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-09-27 09:48:57,349 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-09-27 09:48:57,349 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-09-27 09:48:57,349 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-09-27 09:48:57,349 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-09-27 09:48:57,350 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-09-27 09:48:57,350 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-09-27 09:48:57,350 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-09-27 09:48:57,350 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-09-27 09:48:57,351 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-09-27 09:48:57,351 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-09-27 09:48:57,351 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-09-27 09:48:57,351 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-09-27 09:48:57,352 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-09-27 09:48:57,352 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-09-27 09:48:57,352 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-09-27 09:48:57,352 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-09-27 09:48:57,352 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-09-27 09:48:57,353 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-09-27 09:48:57,353 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-09-27 09:48:57,353 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-09-27 09:48:57,353 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-09-27 09:48:57,353 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-09-27 09:48:57,354 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-09-27 09:48:57,354 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-09-27 09:48:57,354 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-09-27 09:48:57,354 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-09-27 09:48:57,354 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-09-27 09:48:57,355 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-09-27 09:48:57,355 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-09-27 09:48:57,355 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-09-27 09:48:57,355 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-09-27 09:48:57,355 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-09-27 09:48:57,355 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-09-27 09:48:57,356 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-09-27 09:48:57,356 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-09-27 09:48:57,360 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.2.0.jre [16])
+2024-09-27 09:48:57,360 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\com.google.guava_33.2.0.jre.jar
+2024-09-27 09:48:57,361 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1009])
+2024-09-27 09:48:57,361 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2024-09-27 09:48:57,361 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [33])
+2024-09-27 09:48:57,362 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-09-27 09:48:57,362 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [44])
+2024-09-27 09:48:57,363 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-09-27 09:48:57,363 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.8.0 [78])
+2024-09-27 09:48:57,363 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.cli_1.8.0.jar
+2024-09-27 09:48:57,363 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2024-09-27 09:48:57,364 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-09-27 09:48:57,364 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [89])
+2024-09-27 09:48:57,364 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-09-27 09:48:57,364 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2024-09-27 09:48:57,365 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-09-27 09:48:57,369 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\LENOVO\AppData\Local\Temp\m2e-archetypeGenerator3581770869097620795":
+2024-09-27 09:48:57,439 [Worker-2: Launching mavenrun-b34cb18b-c6f6-4ab5-8daa-9bbb8bff8029] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DgroupId=sp2 -DartifactId=sp2 -Dversion=0.0.1-SNAPSHOT -Dpackage=com.demo -DoutputDirectory="D:\java\eclipse\spring core" -B -Dstyle.color=always -U archetype:generate
+2024-09-27 09:49:33,872 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java\eclipse\spring core\sp2\pom.xml
+2024-09-27 09:49:43,916 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp2:sp2:0.0.1-SNAPSHOT @ D:\java\eclipse\spring core\sp2\pom.xml.
+2024-09-27 09:49:47,510 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp2/src/main/java
+2024-09-27 09:49:47,513 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp2/src/main/resources
+2024-09-27 09:49:47,535 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp2/src/test/java
+2024-09-27 09:49:47,537 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp2/src/test/resources
+2024-09-27 09:49:47,827 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2024-09-27 09:54:16,749 [Worker-2: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 09:54:16,749 [Worker-2: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-09-27 09:54:16,756 [Worker-2: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 09:54:16,756 [Worker-2: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-09-27 10:06:46,842 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-09-27 10:06:47,502 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp2:sp2:0.0.1-SNAPSHOT @ D:\java\eclipse\spring core\sp2\pom.xml.
+2024-09-27 10:06:49,389 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp2/src/main/java
+2024-09-27 10:06:49,391 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp2/src/main/resources
+2024-09-27 10:06:49,391 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp2/src/test/java
+2024-09-27 10:06:49,393 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp2/src/test/resources
+2024-09-27 10:06:50,089 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2024-09-27 10:13:52,056 [Worker-25: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 10:13:52,056 [Worker-25: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-09-27 10:13:52,064 [Worker-25: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 10:13:52,064 [Worker-25: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-09-27 10:15:27,860 [Worker-24: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 10:15:27,860 [Worker-24: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-09-27 10:15:27,864 [Worker-24: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 10:15:27,864 [Worker-24: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-09-27 10:47:05,124 [Worker-32: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 10:47:05,126 [Worker-32: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-09-27 10:47:05,128 [Worker-32: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 10:47:05,128 [Worker-32: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-09-27 10:47:19,214 [Worker-33: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 10:47:19,214 [Worker-33: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-09-27 10:47:19,217 [Worker-33: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 10:47:19,218 [Worker-33: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-09-27 11:31:48,194 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 11:31:48,195 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-09-27 11:31:48,200 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 11:31:48,200 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-09-27 11:35:05,423 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 11:35:05,424 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-09-27 11:35:05,429 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 11:35:05,430 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-09-27 11:41:08,514 [Worker-44: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 11:41:08,515 [Worker-44: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-09-27 11:41:08,519 [Worker-44: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 11:41:08,519 [Worker-44: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-09-27 11:43:02,801 [Worker-43: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 11:43:02,802 [Worker-43: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-09-27 11:43:02,807 [Worker-43: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 11:43:02,807 [Worker-43: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-09-27 11:50:48,910 [Worker-42: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 11:50:48,910 [Worker-42: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-09-27 11:50:48,914 [Worker-42: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-09-27 11:50:48,915 [Worker-42: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 09:27:52,828 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-01 09:43:04,604 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 09:43:04,604 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 09:43:04,610 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 09:43:04,610 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 09:44:40,309 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 09:44:40,309 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 09:44:40,312 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 09:44:40,312 [Worker-18: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 09:45:40,344 [Worker-21: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 09:45:40,345 [Worker-21: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 09:45:40,349 [Worker-21: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 09:45:40,349 [Worker-21: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 09:48:22,945 [Worker-22: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 09:48:22,946 [Worker-22: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 09:48:22,948 [Worker-22: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 09:48:22,948 [Worker-22: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 09:49:19,472 [Worker-22: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 09:49:19,472 [Worker-22: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 09:49:19,476 [Worker-22: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 09:49:19,476 [Worker-22: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 10:02:06,125 [Worker-29: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:02:06,125 [Worker-29: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 10:02:06,128 [Worker-29: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:02:06,128 [Worker-29: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 10:04:53,351 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:04:53,352 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 10:04:53,355 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:04:53,355 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 10:06:45,280 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:06:45,282 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 10:06:45,284 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:06:45,285 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 10:09:09,561 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:09:09,562 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 10:09:09,565 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:09:09,565 [Worker-30: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 10:26:10,652 [Worker-36: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:26:10,653 [Worker-36: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 10:26:10,656 [Worker-36: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:26:10,656 [Worker-36: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 10:32:35,122 [Worker-39: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:32:35,123 [Worker-39: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 10:32:35,125 [Worker-39: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:32:35,126 [Worker-39: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 10:33:45,042 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:33:45,042 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 10:33:45,045 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:33:45,046 [Worker-40: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 10:55:19,569 [Worker-48: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:55:19,569 [Worker-48: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 10:55:19,574 [Worker-48: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 10:55:19,574 [Worker-48: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 11:16:14,575 [Worker-59: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 11:16:14,576 [Worker-59: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 11:16:14,582 [Worker-59: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 11:16:14,582 [Worker-59: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 12:31:43,411 [Worker-66: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 12:31:43,411 [Worker-66: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 12:31:43,413 [Worker-66: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 12:31:43,414 [Worker-66: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 12:35:30,373 [Worker-72: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 12:35:30,373 [Worker-72: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\main\resources
+2024-10-01 12:35:30,376 [Worker-72: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 12:35:30,376 [Worker-72: Launching App (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp2\src\test\resources
+2024-10-01 21:11:55,061 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-01 21:14:35,145 [Worker-13: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references closed project sp2
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references closed project sp2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1741)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-01 21:14:35,201 [Worker-13: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references closed project sp2
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references closed project sp2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1741)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-01 21:14:35,222 [Worker-13: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (1) references closed project sp2
+org.eclipse.core.runtime.CoreException: Launch configuration App (1) references closed project sp2
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1741)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-01 21:16:12,587 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [644])
+2024-10-01 21:16:12,934 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-10-01 21:16:12,935 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-10-01 21:16:12,935 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-10-01 21:16:12,936 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-10-01 21:16:12,936 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-10-01 21:16:12,936 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-10-01 21:16:12,936 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-10-01 21:16:12,937 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-10-01 21:16:12,937 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-10-01 21:16:12,937 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-10-01 21:16:12,937 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-10-01 21:16:12,938 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-10-01 21:16:12,938 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-10-01 21:16:12,939 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-10-01 21:16:12,939 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-10-01 21:16:12,940 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-10-01 21:16:12,940 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-10-01 21:16:12,941 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-10-01 21:16:12,941 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-10-01 21:16:12,941 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-10-01 21:16:12,942 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-10-01 21:16:12,942 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-10-01 21:16:12,943 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-10-01 21:16:12,943 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-10-01 21:16:12,943 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-10-01 21:16:12,944 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-10-01 21:16:12,944 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-10-01 21:16:12,944 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-10-01 21:16:12,945 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-10-01 21:16:12,945 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-10-01 21:16:12,945 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-10-01 21:16:12,945 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-10-01 21:16:12,946 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-10-01 21:16:12,946 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-10-01 21:16:12,947 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-10-01 21:16:12,947 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-10-01 21:16:12,947 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-10-01 21:16:12,947 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-10-01 21:16:12,947 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-10-01 21:16:12,948 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-10-01 21:16:12,948 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-10-01 21:16:12,948 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-10-01 21:16:12,948 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-10-01 21:16:12,951 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.2.0.jre [16])
+2024-10-01 21:16:12,952 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\com.google.guava_33.2.0.jre.jar
+2024-10-01 21:16:12,952 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1009])
+2024-10-01 21:16:12,953 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2024-10-01 21:16:12,953 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [33])
+2024-10-01 21:16:12,954 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-10-01 21:16:12,955 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [44])
+2024-10-01 21:16:12,955 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-10-01 21:16:12,955 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.8.0 [78])
+2024-10-01 21:16:12,955 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.cli_1.8.0.jar
+2024-10-01 21:16:12,957 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2024-10-01 21:16:12,957 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-10-01 21:16:12,957 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [89])
+2024-10-01 21:16:12,959 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-10-01 21:16:12,959 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2024-10-01 21:16:12,959 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-10-01 21:16:12,964 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\LENOVO\AppData\Local\Temp\m2e-archetypeGenerator7056120968013545611":
+2024-10-01 21:16:12,990 [Worker-15: Launching mavenrun-a5a2c7a2-6b7a-47b3-96a3-d3aeeb8c9b1b] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DgroupId=sp3 -DartifactId=sp3 -Dversion=0.0.1-SNAPSHOT -Dpackage=com.demo -DoutputDirectory="D:\java\eclipse\spring core" -B -Dstyle.color=always -U archetype:generate
+2024-10-01 21:17:10,918 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java\eclipse\spring core\sp3\pom.xml
+2024-10-01 21:17:24,317 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp3:sp3:0.0.1-SNAPSHOT @ D:\java\eclipse\spring core\sp3\pom.xml.
+2024-10-01 21:17:29,461 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp3/src/main/java
+2024-10-01 21:17:29,464 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp3/src/main/resources
+2024-10-01 21:17:29,482 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp3/src/test/java
+2024-10-01 21:17:29,483 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp3/src/test/resources
+2024-10-01 21:17:30,371 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 19 sec
+2024-10-01 21:19:23,468 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-01 21:19:30,160 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp3:sp3:0.0.1-SNAPSHOT @ D:\java\eclipse\spring core\sp3\pom.xml.
+2024-10-01 21:19:35,407 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp3/src/main/java
+2024-10-01 21:19:35,410 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp3/src/main/resources
+2024-10-01 21:19:35,411 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp3/src/test/java
+2024-10-01 21:19:35,412 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp3/src/test/resources
+2024-10-01 21:19:35,893 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 7.00 sec, update config takes 4.00 sec 
+2024-10-01 21:28:46,493 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-01 21:28:47,143 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp3:sp3:0.0.1-SNAPSHOT @ D:\java\eclipse\spring core\sp3\pom.xml.
+2024-10-01 21:28:47,613 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.18/spring-jdbc-5.3.18.pom
+2024-10-01 21:28:47,725 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.18/spring-jdbc-5.3.18.pom
+2024-10-01 21:28:47,776 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.18/spring-tx-5.3.18.pom
+2024-10-01 21:28:47,857 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.18/spring-tx-5.3.18.pom
+2024-10-01 21:28:47,968 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.18/spring-jdbc-5.3.18.jar
+2024-10-01 21:28:48,268 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.18/spring-jdbc-5.3.18.jar
+2024-10-01 21:28:48,294 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.18/spring-tx-5.3.18.jar
+2024-10-01 21:28:48,427 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.18/spring-tx-5.3.18.jar
+2024-10-01 21:28:51,040 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp3/src/main/java
+2024-10-01 21:28:51,042 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp3/src/main/resources
+2024-10-01 21:28:51,043 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp3/src/test/java
+2024-10-01 21:28:51,044 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp3/src/test/resources
+2024-10-01 21:28:51,193 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 0.00 sec 
+2024-10-01 21:50:56,388 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.18/spring-jdbc-5.3.18-sources.jar
+2024-10-01 21:50:56,801 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.18/spring-jdbc-5.3.18-sources.jar
+2024-10-01 21:50:56,809 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:5.3.18
+2024-10-01 22:35:25,707 [Worker-39: Launching App (2)] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp3:sp3:0.0.1-SNAPSHOT @ D:\java\eclipse\spring core\sp3\pom.xml.
+2024-10-01 22:35:27,253 [Worker-39: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 22:35:27,253 [Worker-39: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp3\src\main\resources
+2024-10-01 22:35:27,260 [Worker-39: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 22:35:27,261 [Worker-39: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp3\src\test\resources
+2024-10-01 22:58:19,283 [Worker-53: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 22:58:19,285 [Worker-53: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp3\src\main\resources
+2024-10-01 22:58:19,292 [Worker-53: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-01 22:58:19,293 [Worker-53: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp3\src\test\resources
+2024-10-05 10:12:57,947 [Worker-25: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-05 10:13:42,981 [Worker-23: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 10:13:42,987 [Worker-23: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp3\src\main\resources
+2024-10-05 10:13:42,997 [Worker-23: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 10:13:42,997 [Worker-23: Launching App (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp3\src\test\resources
+2024-10-05 10:14:43,616 [Worker-25: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (2) references non-existing project sp3.
+org.eclipse.core.runtime.CoreException: Launch configuration App (2) references non-existing project sp3.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-05 10:14:43,640 [Worker-25: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (2) references non-existing project sp3.
+org.eclipse.core.runtime.CoreException: Launch configuration App (2) references non-existing project sp3.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-05 10:14:43,680 [Worker-25: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (2) references non-existing project sp3.
+org.eclipse.core.runtime.CoreException: Launch configuration App (2) references non-existing project sp3.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-05 10:16:14,965 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [644])
+2024-10-05 10:16:14,971 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-10-05 10:16:14,971 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-10-05 10:16:14,971 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-10-05 10:16:14,972 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-10-05 10:16:14,972 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-10-05 10:16:14,972 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-10-05 10:16:14,972 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-10-05 10:16:14,972 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-10-05 10:16:14,973 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-10-05 10:16:14,973 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-10-05 10:16:14,973 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-10-05 10:16:14,973 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-10-05 10:16:14,973 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-10-05 10:16:14,973 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-10-05 10:16:14,974 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-10-05 10:16:14,974 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-10-05 10:16:14,974 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-10-05 10:16:14,974 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-10-05 10:16:14,974 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-10-05 10:16:14,975 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-10-05 10:16:14,975 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-10-05 10:16:14,975 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-10-05 10:16:14,975 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-10-05 10:16:14,975 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-10-05 10:16:14,975 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-10-05 10:16:14,975 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-10-05 10:16:14,976 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-10-05 10:16:14,976 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-10-05 10:16:14,978 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-10-05 10:16:14,978 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-10-05 10:16:14,978 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-10-05 10:16:14,978 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-10-05 10:16:14,978 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-10-05 10:16:14,979 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-10-05 10:16:14,979 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-10-05 10:16:14,979 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-10-05 10:16:14,979 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-10-05 10:16:14,979 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-10-05 10:16:14,979 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-10-05 10:16:14,980 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-10-05 10:16:14,980 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-10-05 10:16:14,980 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-10-05 10:16:14,980 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-10-05 10:16:14,982 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.2.0.jre [16])
+2024-10-05 10:16:14,984 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\com.google.guava_33.2.0.jre.jar
+2024-10-05 10:16:14,985 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1009])
+2024-10-05 10:16:14,987 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2024-10-05 10:16:14,987 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [33])
+2024-10-05 10:16:14,988 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-10-05 10:16:14,988 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [44])
+2024-10-05 10:16:14,988 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-10-05 10:16:14,989 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.8.0 [78])
+2024-10-05 10:16:14,989 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.cli_1.8.0.jar
+2024-10-05 10:16:14,989 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2024-10-05 10:16:14,990 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-10-05 10:16:14,990 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [89])
+2024-10-05 10:16:14,992 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-10-05 10:16:14,992 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2024-10-05 10:16:14,993 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\LENOVO\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-10-05 10:16:14,996 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\LENOVO\AppData\Local\Temp\m2e-archetypeGenerator16652299161106785092":
+2024-10-05 10:16:14,998 [Worker-23: Launching mavenrun-84837df5-0b81-44f6-911c-7e8c3210189c] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DgroupId=sp4 -DartifactId=sp4 -Dversion=0.0.1-SNAPSHOT -Dpackage=com.demo -DoutputDirectory="D:\java\eclipse\spring core" -B -Dstyle.color=always -U archetype:generate
+2024-10-05 10:16:39,426 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java\eclipse\spring core\sp4\pom.xml
+2024-10-05 10:16:46,357 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp4:sp4:0.0.1-SNAPSHOT @ D:\java\eclipse\spring core\sp4\pom.xml.
+2024-10-05 10:16:48,082 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp4/src/main/java
+2024-10-05 10:16:48,085 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp4/src/main/resources
+2024-10-05 10:16:48,099 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp4/src/test/java
+2024-10-05 10:16:48,100 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp4/src/test/resources
+2024-10-05 10:16:48,440 [Worker-25: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2024-10-05 10:25:35,553 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-05 10:25:36,143 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp4:sp4:0.0.1-SNAPSHOT @ D:\java\eclipse\spring core\sp4\pom.xml.
+2024-10-05 10:25:36,569 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp4/src/main/java
+2024-10-05 10:25:36,571 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp4/src/main/resources
+2024-10-05 10:25:36,572 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp4/src/test/java
+2024-10-05 10:25:36,572 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp4/src/test/resources
+2024-10-05 10:25:36,854 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-05 10:43:24,076 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-05 10:43:24,554 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sp4:sp4:0.0.1-SNAPSHOT @ D:\java\eclipse\spring core\sp4\pom.xml.
+2024-10-05 10:43:25,113 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp4/src/main/java
+2024-10-05 10:43:25,114 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp4/src/main/resources
+2024-10-05 10:43:25,114 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sp4/src/test/java
+2024-10-05 10:43:25,115 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sp4/src/test/resources
+2024-10-05 10:43:25,208 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-10-05 10:58:28,426 [Worker-45: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 10:58:28,426 [Worker-45: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\main\resources
+2024-10-05 10:58:28,431 [Worker-45: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 10:58:28,431 [Worker-45: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\test\resources
+2024-10-05 11:01:30,117 [Worker-41: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:01:30,117 [Worker-41: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\main\resources
+2024-10-05 11:01:30,120 [Worker-41: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:01:30,120 [Worker-41: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\test\resources
+2024-10-05 11:30:11,754 [Worker-53: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:30:11,754 [Worker-53: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\main\resources
+2024-10-05 11:30:11,758 [Worker-53: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:30:11,758 [Worker-53: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\test\resources
+2024-10-05 11:51:14,756 [Worker-54: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:51:14,756 [Worker-54: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\main\resources
+2024-10-05 11:51:14,759 [Worker-54: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:51:14,760 [Worker-54: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\test\resources
+2024-10-05 11:54:30,600 [Worker-54: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:54:30,600 [Worker-54: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\main\resources
+2024-10-05 11:54:30,603 [Worker-54: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:54:30,603 [Worker-54: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\test\resources
+2024-10-05 11:54:39,836 [Worker-58: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:54:39,836 [Worker-58: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\main\resources
+2024-10-05 11:54:39,839 [Worker-58: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:54:39,839 [Worker-58: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\test\resources
+2024-10-05 11:55:35,969 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:55:35,969 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\main\resources
+2024-10-05 11:55:35,972 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:55:35,973 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\test\resources
+2024-10-05 11:55:56,282 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:55:56,282 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\main\resources
+2024-10-05 11:55:56,285 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:55:56,285 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\test\resources
+2024-10-05 11:56:11,896 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:56:11,896 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\main\resources
+2024-10-05 11:56:11,899 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:56:11,899 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\test\resources
+2024-10-05 11:56:27,034 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:56:27,035 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\main\resources
+2024-10-05 11:56:27,038 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-05 11:56:27,038 [Worker-61: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\test\resources
+2025-01-24 09:33:01,863 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-01-24 09:33:37,113 [Worker-2: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-24 09:33:37,113 [Worker-2: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\main\resources
+2025-01-24 09:33:37,118 [Worker-2: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-24 09:33:37,120 [Worker-2: Launching App (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\eclipse\spring core\sp4\src\test\resources
